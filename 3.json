@@ -1,0 +1,78 @@
+{
+    "type" : "Leaderboard",
+    "Players" :[
+        {   
+            "rank" :{
+                "type" : "int",
+                "number" : [0]
+            },
+            "details" : {
+                "type" : "string",
+                "name" :["Mohit"]
+            },
+            "Score" : {
+                "type" : "int",
+                "highestScore" :[500]  
+            } 
+
+        },
+        {   
+            "rank" :{
+                "type" : "int",
+                "number" : [1]
+            },
+            "details" : {
+                "type" : "string",
+                "name" :["James"]
+            },
+            "Score" : {
+                "type" : "int",
+                "highestScore" :[450]  
+            } 
+
+        },
+        {   "rank" :{
+                "type" : "int",
+                "number" : [2]
+            },
+            "details" : {
+                "type" : "string",
+                "name" :["Droxo"]
+            },
+            "Score" : {
+                "type" : "int",
+                "highestScore" :[420]  
+            } 
+
+        },
+        {   "rank" :{
+            "type" : "int",
+            "number" : [3]
+            },
+            "details" : {
+                "type" : "string",
+                "name" :["Henry"]
+            },
+            "Score" : {
+                "type" : "int",
+                "highestScore" :[370]  
+            } 
+
+        },
+        {   "rank" :{
+            "type" : "int",
+            "number" : [4]
+            },
+            "details" : {
+                "type" : "string",
+                "name" :["Riley"]
+            },
+            "Score" : {
+                "type" : "int",
+                "highestScore" :[350]  
+            } 
+
+        }
+
+    ]
+}
